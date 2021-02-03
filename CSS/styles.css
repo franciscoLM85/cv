@@ -1,0 +1,32 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 30px;
+}
+
+img {
+  height: 130px;
+}
+
+img:hover{
+  height: 135px;
+}
+
+/*********************/
+
+#main_image{
+  border-radius: 100%;
+}
